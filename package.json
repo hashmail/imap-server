@@ -1,0 +1,18 @@
+{
+  "name": "imap-server",
+  "version": "0.0.0",
+  "description": "An IMAP server in node.js",
+  "main": "index.js",
+  "dependencies": {
+    "imap-parser": "https://github.com/hashmail/imap-parser/archive/feature/multi-line.tar.gz"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hashmail/imap-server.git"
+  },
+  "author": "ForbesLindesay",
+  "license": "MIT"
+}
